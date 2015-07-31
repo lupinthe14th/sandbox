@@ -19,6 +19,10 @@
 - PSK
    choo7weoghohlioquiraeGho9vee9ohng8Aem5UuNe4roo4Quaquiegh6oude6O
 
+- 規格
+   IEEE802.11n
+
+
 #### セカンダリ
 
 - ネットワーク名(SSID)
@@ -38,6 +42,9 @@
 
 - PSK
    Ifaidah6we1aetohgeiwaequoDo5ieGaiwu8Phae7ieraeliique8dooteisoh9
+
+- 規格
+   IEEE802.11ac
 
 #### セカンダリ
 
